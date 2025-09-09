@@ -1,6 +1,7 @@
 # GitHub Project Builder
 
-A comprehensive Bash script with embedded Python for creating GitHub repositories, projects with custom fields, and importing issues from CSV files.
+Useful for teams that have been tracking issues in .csv compatible formats like a spreadsheet and now want to move to GitHub Issues. 
+Automatically creates a GitHub repository, project, and imports sample issues with custom fields from a CSV file, in a comprehensive Bash script with embedded Python.
 
 ## Features
 
